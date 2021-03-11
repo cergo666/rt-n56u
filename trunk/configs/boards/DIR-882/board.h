@@ -4,8 +4,8 @@
 #define BOARD_NAME	"DIR-882"
 #define BOARD_DESC	"DIR-882 Wireless Router"
 #define BOARD_VENDOR_NAME	"DLINK"
-#define BOARD_VENDOR_URL	"http://www.dlink.com.cn/"
-#define BOARD_MODEL_URL	"http://www.dlink.com.cn/"
+#define BOARD_VENDOR_URL	"http://www.dlink.ru/"
+#define BOARD_MODEL_URL	"http://www.dlink.ru/"
 #define BOARD_BOOT_TIME	30
 #define BOARD_FLASH_TIME	120
 #define BOARD_GPIO_BTN_FN1	7

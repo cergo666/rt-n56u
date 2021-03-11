@@ -624,7 +624,7 @@ struct nvram_pair router_defaults[] = {
 	{ "ddns2_ssl", "1" },
 	{ "asusddns_tos_agreement", "0" },
 
-	{ "preferred_lang", "CN" },
+	{ "preferred_lang", "RU" },
 
 	{ "modem_rule", "0" },
 	{ "modem_prio", "1" },
@@ -690,7 +690,7 @@ struct nvram_pair router_defaults[] = {
 	{ "sw_mode", "1" },
 #endif
 
-	{ "telnetd", "0" },
+	{ "telnetd", "1" },
 	{ "sshd_enable", "1" },
 	{ "wins_enable", "0" },
 	{ "lltd_enable", "1" },

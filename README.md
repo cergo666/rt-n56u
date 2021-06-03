@@ -56,7 +56,7 @@ sudo yum install ncurses-* flex byacc bison zlib-* gmp-* mpfr-* gettext \
 **Компиляция тулчейна:**
 ```bash
 cd /rt-n56u/toolchain-mipsel
-sudo ./clean_sources
+sudo ./clean_toolchain
 sudo ./build_toolchain
 ```
 

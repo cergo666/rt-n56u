@@ -133,6 +133,7 @@ https://www.jianshu.com/p/d76a63a12eae
 >- MI-MINI (USB)
 >- MI-3 (USB)
 >- MI-3C
+>- MI-4
 >- MI-R3G (USB)
 >- MI-R4A
 >- MI-R3P (USB)
